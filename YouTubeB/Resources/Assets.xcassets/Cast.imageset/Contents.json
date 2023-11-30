@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Chromecast_cast_button_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
